@@ -103,8 +103,6 @@ class Inicio {
 }
 
 public class ChimbaConectionApp {
-    private static int paginaActual = 0;
-    private static int ultimaPagina = 0;
 
     private static ArrayList<Perfil> perfiles = new ArrayList<>(); // ArrayList para almacenar los perfiles
 
